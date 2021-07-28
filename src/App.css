@@ -248,6 +248,7 @@
     margin-bottom: 30px;
     width: 100%;
     font-size: 2.3em;
+    ;
 }
 
 .button {
@@ -289,4 +290,10 @@
 .button:hover span:after {
     opacity: 1;
     right: 0;
+}
+
+.error {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
 }
